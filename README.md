@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working on AWS EKS S3 based devops architect project , which is doing kubernetes setup testing peformance testing also <br><br>I am currently learning AWS cloud practinior ,devops ,solution architect  certification courses on udemy <br><br>
+Result-oriented AWS Cloud & DevOps professional with 6+ years of experience in
+cloud architecture, Kubernetes/OCP setups, and microservices solutions. Skilled in
+designing, implementing, and managing scalable AWS infrastructure, CI/CD
+pipelines, containerized applications, and performance-optimized microservices. Experienced in AWS-based Kubernetes clusters (EKS/OpenShift) including soak
+testing, capacity testing, HPA & time-based scaling, and CPU/memory optimization
+across different instance types. Adept at driving solution architecture, DevOps
+strategy, and cloud modernization for enterprise-grade platforms. <br><br>
 
 
 ## 🌐 Socials:
